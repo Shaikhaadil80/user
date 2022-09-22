@@ -1,0 +1,142 @@
+{
+  "project_info": {
+    "project_number": "345580308351",
+    "project_id": "appache-155e2",
+    "storage_bucket": "appache-155e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345580308351:android:df23942639aeb61d56fc4a",
+        "android_client_info": {
+          "package_name": "co.com.appache"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345580308351-h1f64bkdl4nmden0honoonf8jle1issu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.com.appache",
+            "certificate_hash": "d743bb56f02f9e1731a55832439df6ffb04f167f"
+          }
+        },
+        {
+          "client_id": "345580308351-0vigjv87uah2nudgq77a1962p0r54jde.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBT9xZu2DfTl5G0bHOI25pXELZqkAIXas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345580308351-0vigjv87uah2nudgq77a1962p0r54jde.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "345580308351-6lqr410pt8514i7v4thp80ee7ts1pd64.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "co.com.appache-delivery"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345580308351:android:ed707b7b823f75e656fc4a",
+        "android_client_info": {
+          "package_name": "co.com.appache_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345580308351-06pa46q86vtmfo30bm38g5c94n1rca1v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.com.appache_admin",
+            "certificate_hash": "fe793766462aa29e8e1a27170f6b17805744da40"
+          }
+        },
+        {
+          "client_id": "345580308351-0vigjv87uah2nudgq77a1962p0r54jde.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBT9xZu2DfTl5G0bHOI25pXELZqkAIXas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345580308351-0vigjv87uah2nudgq77a1962p0r54jde.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "345580308351-6lqr410pt8514i7v4thp80ee7ts1pd64.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "co.com.appache-delivery"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345580308351:android:5d47b4c0462b905356fc4a",
+        "android_client_info": {
+          "package_name": "co.com.appache_delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345580308351-ekn8jfmgg83ar37751333b0pkdcpao0d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.com.appache_delivery",
+            "certificate_hash": "51943ea2ae44e9b8ceca0465e3434bd72e317e2b"
+          }
+        },
+        {
+          "client_id": "345580308351-0vigjv87uah2nudgq77a1962p0r54jde.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBT9xZu2DfTl5G0bHOI25pXELZqkAIXas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345580308351-0vigjv87uah2nudgq77a1962p0r54jde.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "345580308351-6lqr410pt8514i7v4thp80ee7ts1pd64.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "co.com.appache-delivery"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
